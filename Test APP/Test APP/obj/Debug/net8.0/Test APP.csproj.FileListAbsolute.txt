@@ -1,0 +1,14 @@
+D:\Dot net Master\DotNetTry\Test APP\Test APP\bin\Debug\net8.0\Test APP.exe
+D:\Dot net Master\DotNetTry\Test APP\Test APP\bin\Debug\net8.0\Test APP.deps.json
+D:\Dot net Master\DotNetTry\Test APP\Test APP\bin\Debug\net8.0\Test APP.runtimeconfig.json
+D:\Dot net Master\DotNetTry\Test APP\Test APP\bin\Debug\net8.0\Test APP.dll
+D:\Dot net Master\DotNetTry\Test APP\Test APP\bin\Debug\net8.0\Test APP.pdb
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.AssemblyInfoInputs.cache
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.AssemblyInfo.cs
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.csproj.CoreCompileInputs.cache
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.dll
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\refint\Test APP.dll
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.pdb
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\Test APP.genruntimeconfig.cache
+D:\Dot net Master\DotNetTry\Test APP\Test APP\obj\Debug\net8.0\ref\Test APP.dll
